@@ -1,5 +1,5 @@
 {
-  "name": "postmessage-client-server",
+  "name": "postmessage-client-server-r7",
   "version": "1.0.0",
   "description": "A simple promise-based client and server to communicate between pages and iframes with postmessage.",
   "main": "./lib/index.js",
@@ -7,10 +7,10 @@
   "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/erikras/postmessage-client-server.git"
+    "url": "git://github.com/btesser-r7/postmessage-client-server.git"
   },
   "bugs": {
-    "url": "git://github.com/erikras/postmessage-client-server/issues"
+    "url": "git://github.com/btesser-r7/postmessage-client-server/issues"
   },
   "scripts": {
     "build": "npm run build:lib && npm run build:umd && npm run build:umd:min",
@@ -24,7 +24,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/erikras/postmessage-client-server/blob/master/LICENSE-MIT"
+      "url": "https://github.com/btesser-r7/postmessage-client-server/blob/master/LICENSE-MIT"
     }
   ],
   "keywords": [
