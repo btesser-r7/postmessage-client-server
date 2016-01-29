@@ -1,6 +1,6 @@
 {
   "name": "postmessage-client-server-r7",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple promise-based client and server to communicate between pages and iframes with postmessage.",
   "main": "./lib/index.js",
   "homepage": "https://github.com/erikras/postmessage-client-server",
